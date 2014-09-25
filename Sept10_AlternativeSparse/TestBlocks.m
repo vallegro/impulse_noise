@@ -1,0 +1,1 @@
+a = BlockOptimize(mnim(317:326,125:134))
